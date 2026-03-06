@@ -12,7 +12,7 @@ Most people build resumes from memory — what they're proud of, a nice template
 
 ## The skill
 
-An interactive coaching session that teaches you the *system* behind resumes that get callbacks. Based on a paid course by a recruiter with 20+ years of experience (including Amazon, where he searched a 1M+ resume database).
+An interactive coaching session that teaches you the *system* behind resumes that get callbacks. Built from real recruiting methodology — how ATS filtering works, how recruiters scan, and what actually makes hiring managers pick up the phone.
 
 It doesn't write your resume for you. It teaches you why resumes work the way they do, then coaches you through building yours — so you can customize for any job in 15 minutes, for the rest of your career.
 
