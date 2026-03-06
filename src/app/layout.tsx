@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "AI Skills & Prompts",
   description:
     "Curated AI skills and prompts for Claude Code. Copy, paste, and start using.",
+  icons: {
+    icon: "/tt-favicon.png",
+  },
 };
 
 export default function RootLayout({
