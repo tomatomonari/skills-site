@@ -30,3 +30,18 @@ body {
   text-decoration-color: #737373 !important;
   color: #737373 !important;
 }
+
+.inline-code {
+  background: #e8e4dc;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  font-family: var(--font-mono), monospace;
+}
+
+pre .inline-code {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  color: inherit;
+}
