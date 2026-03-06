@@ -26,7 +26,7 @@ export default function MarkdownContent({ content }: { content: string }) {
           const isBlock = className?.includes("language-");
           if (isBlock) {
             return (
-              <code className="text-sm">{children}</code>
+              <code className="text-sm text-[#d4d0c8]">{children}</code>
             );
           }
           return (
@@ -36,7 +36,7 @@ export default function MarkdownContent({ content }: { content: string }) {
           );
         },
         pre: ({ children }) => (
-          <pre className="bg-neutral-50 border border-neutral-200 rounded-md p-3 my-3 overflow-x-auto text-sm font-mono">
+          <pre className="bg-[#191918] text-[#d4d0c8] rounded-md p-4 my-3 overflow-x-auto text-sm font-mono">
             {children}
           </pre>
         ),
