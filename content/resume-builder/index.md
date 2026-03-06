@@ -12,15 +12,17 @@ Most people build resumes from memory — what they're proud of, a nice template
 
 ## The skill
 
-An interactive coaching session that teaches you the *system* behind resumes that get callbacks. Built from real recruiting methodology — how ATS filtering works, how recruiters scan, and what actually makes hiring managers pick up the phone.
+This isn't another "paste your resume and I'll rewrite it" AI tool. Those hallucinate, flatter you, and spit out generic bullets that sound like everyone else's.
 
-It doesn't write your resume for you. It teaches you why resumes work the way they do, then coaches you through building yours — so you can customize for any job in 15 minutes, for the rest of your career.
+This is a coaching session. It teaches you the *system* — then walks you through building your resume yourself. You stay in control. The AI handles the structure, the frameworks, and the accountability.
+
+**What's inside:** ATS keyword strategy, ghost posting detection, H1B red flag signals, competency frequency mapping across your target job descriptions, the parent-child resume system, and the bullet formula that enterprise recruiters actually respond to. Built from methodology used to evaluate candidates in ATS databases with 1M+ resumes.
 
 By the end you'll have:
-- A parent resume built from real job market data
+- A parent resume built from real job market data — not from memory
 - A bullet point bank organized by competency
-- The knowledge to customize for any role fast
-- A system, not a document
+- The ability to customize for any role in 15 minutes
+- A system you own, not a document you rented from AI
 
 ## How to use it
 
